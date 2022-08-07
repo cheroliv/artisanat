@@ -1,6 +1,6 @@
 .env
 cadrage/doc
-gatsby-agence.code-workspace
+artisanat.code-workspace
 .vscode
 .storybook
 package.lock.json
